@@ -117,7 +117,7 @@ The project includes a user-friendly **Streamlit app** to predict a student's pe
 
 ## 🌐 Live Demo
 
-Try the app here: [Student Performance Predictor]([https://smart-grade-predictor.onrender.com/])
+Try the app here: [Student Performance Predictor](https://smart-grade-predictor.onrender.com/)
 
 ---
 
