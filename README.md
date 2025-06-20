@@ -115,6 +115,12 @@ The project includes a user-friendly **Streamlit app** to predict a student's pe
 
 ---
 
+## 🌐 Live Demo
+
+Try the app here: [Student Performance Predictor](https://your-app-name.streamlit.app)
+
+---
+
 
 ## 📌 Future Work
 - Add performance metrics and confusion matrix to the app
