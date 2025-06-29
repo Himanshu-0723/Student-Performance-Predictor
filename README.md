@@ -52,11 +52,9 @@ Categorical and numerical features such as:
 ## ⚙️ Workflow
 
 - Data Preprocessing  
-- Handling categorical features with One-Hot Encoding  
-- Normalization (if needed)  
+- Handling categorical features with One-Hot Encoding
 - Train-test split with stratification  
-- Handling Imbalanced Data using **SMOTE** (Synthetic Minority Oversampling Technique)  
-
+- Handling Imbalanced Data using **SMOTE**
 ---
 
 ## 🤖 Models Used
@@ -88,9 +86,6 @@ Categorical and numerical features such as:
 | Random Forest   | 0.68     | 0.39               | 0.79               |
 | SVM             | 0.54     | 0.25               | 0.67               |
 
-> 🔍 **Note**: All models show bias toward the majority class even after SMOTE, indicating that further tuning or feature engineering may help improve minority class predictions.
-
----
 
 ## 🛠️ Technologies Used
 
