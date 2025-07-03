@@ -122,9 +122,3 @@ Try the app here: [Student Performance Predictor](https://smart-grade-predictor.
 - Deploy app on Streamlit Cloud
 - Expand dataset with `student-por.csv` for more robust training
 
-  
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
