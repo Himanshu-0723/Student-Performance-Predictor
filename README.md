@@ -114,11 +114,3 @@ The project includes a user-friendly **Streamlit app** to predict a student's pe
 
 Try the app here: [Student Performance Predictor](https://smart-grade-predictor.onrender.com/)
 
----
-
-
-## 📌 Future Work
-- Add performance metrics and confusion matrix to the app
-- Deploy app on Streamlit Cloud
-- Expand dataset with `student-por.csv` for more robust training
-
